@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AgeTeller</string>
+    <string name="your_age_is">Your age is:</string>
+    <string name="enter_your_year_of_birth">Enter your Year of Birth..!!</string>
+    <string name="fetch_my_age">Fetch My Age.!!</string>
+</resources>
